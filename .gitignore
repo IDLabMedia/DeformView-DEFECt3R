@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+# per-pixel model outputs are large; per_pair.csv and *_metrics.csv are kept
+evaluation/results/**/pixels/
+
+# local conda environment (create_env.sh)
+env/*
+!env/placeholder
+
+*.zip
+.utils/

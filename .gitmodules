@@ -1,0 +1,4 @@
+[submodule "DEFECt3R/third_party/mast3r"]
+	path = DEFECt3R/third_party/mast3r
+	url = https://github.com/naver/mast3r
+	ignore = untracked
